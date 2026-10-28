@@ -106,7 +106,7 @@ I try to reason about the **entire request lifecycle** — not just the UI layer
 
 ### 📌 Currently open to AI Full-Stack Developer & SDE-1 roles
 
-**[Portfolio](#) · [LinkedIn](#) · [GitHub](#) · [LeetCode](#)**
+**[Portfolio](#) · [LinkedIn](https://www.linkedin.com/in/suraj-dhakar-1499653a5/) · [GitHub](#) · [LeetCode](#)**
 
 *Build useful products. Understand the system. Improve the fundamentals.*
 
