@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0a0f,50:0d1117,100:0a0a0f&height=150&text=SIDDHARTH%20YADAV&fontColor=E6EDF3&fontSize=40&fontAlignY=55&desc=Full%20Stack%20Developer%20%E2%80%94%20MERN%20%7C%20Next.js%20%7C%20TypeScript&descAlignY=78&descSize=14&animation=blinking" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0a0f,50:0d1117,100:0a0a0f&height=150&text=SURAJ%20DHAKAR&fontColor=E6EDF3&fontSize=40&fontAlignY=55&desc=Full%20Stack%20Developer%20%E2%80%94%20MERN%20%7C%20Next.js%20%7C%20TypeScript&descAlignY=78&descSize=14&animation=blinking" />
 
 </div>
 
@@ -19,7 +19,7 @@
 <br/>
 
 ```javascript
-const siddharth = {
+const suraj dhakar = {
   role     : "Full Stack Developer",
   stack    : ["React", "Next.js", "Node.js", "MongoDB", "TypeScript"],
   crafting : "scalable · performant · clean",
@@ -45,25 +45,21 @@ Strong opinions about clean code, sensible architecture, and interfaces that don
 
 Currently deep-diving into **Next.js**, **TypeScript**, and making backends that don't cry under load.
 
-📬 `siddharthyadav2904@gmail.com`
+📬 `surajkirar62@gmail.com`
 
 <br/>
 
-### 🌐 Reach Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharth-yadava)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/siddharth.yadava)
-[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddharthyadav2904@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23171515.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/siddharthyadava)
+
 
 </td>
 <td width="45%" valign="top">
 
 ### 📊 Stats
 
-![](https://github-readme-stats.vercel.app/api?username=siddharthyadava&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=e6edf3&ring_color=58a6ff)
+![](https://github-readme-stats.vercel.app/api?username=surajdhakar&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=e6edf3&ring_color=58a6ff)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthyadava&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=surajdhakar&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3)
 
 </td>
 </tr>
@@ -119,9 +115,9 @@ Currently deep-diving into **Next.js**, **TypeScript**, and making backends that
 
 | Project | Description | Stack | Link |
 |---------|-------------|-------|------|
-| **Todo MERN App** | Full-stack platform with auth & modern UI | `React` `Node.js` `MongoDB` | [→ View](https://github.com/siddharthyadava/MERN-Todo-App-) |
-| **Eimager** | Performance-focused image processing app | `Laravel` `Tailwind` `MySQL` | [→ View](https://github.com/siddharthyadava/Eimager) |
-| **Indian Trade Mart** | Scalable component-driven frontend system | `React` `TypeScript` `Java` | [→ View](https://github.com/siddharthyadava/production-todo-app-frontend) |
+
+| **HHH Jobs** | Performance-focused image processing app | `Laravel` `Tailwind` `MySQL` | [→ View](https://github.com/siddharthyadava/HHHjobs) |
+| **Connect Love** | Scalable component-driven frontend system | `React` `TypeScript` `Java` | [→ View](https://github.com/surajdhakar62/production-todo-app-frontend) |
 
 </div>
 
