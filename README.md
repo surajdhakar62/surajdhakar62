@@ -7,7 +7,10 @@
 I build production-style, end-to-end products — from UI architecture to APIs, auth, databases and AI-powered workflows — not just frontend demos.
 
 
-[![LinkedIn](https://www.linkedin.com/in/suraj-dhakar-1499653a5/)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](#)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
 
 
 </div>
